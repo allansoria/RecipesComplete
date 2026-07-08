@@ -10,7 +10,7 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] **The site has a dashboard displaying a list of data fetched using an API call**
+- [x] **The site has a dashboard displaying a list of data fetched using an API call**
   - The dashboard should display at least 10 unique items, one per row
   - The dashboard includes at least two features in each row
 - [x] **`useEffect` React hook and `async`/`await` are used**
